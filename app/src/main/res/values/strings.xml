@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseVideoStreaming</string>
+    <string name="video_time"></string>
+    <string name="video_content">video file</string>
+</resources>
